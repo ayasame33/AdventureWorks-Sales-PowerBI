@@ -89,11 +89,11 @@ The dashboard includes the following KPI cards:
 
 The dashboard includes:
 
-- # Orders by Order Date
-- # Orders by Order Status
-- # Orders by Ship Method
+- Number of Orders by Order Date
+- Number of Orders by Order Status
+- Number of Orders by Ship Method
 - Order Quantity by Category, Subcategory, and Product
-- # Orders by Online/Offline Flag
+- Number of Orders by Online/Offline Flag
 - Orders vs. Total Due by Territory
 - Top 10 Salespersons by Orders
 
