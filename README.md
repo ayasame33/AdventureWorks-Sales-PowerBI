@@ -46,12 +46,12 @@ The final data model is shown below:
 ## DAX Measures
 The following measures were created:
 
-- # Orders
+- Number of Orders 
 - Total SubTotal
 - Total Tax
 - Total Freight
 - Total Due
-- # Qty
+- Number of Quantities
 
 A separate DAX table was created to organize the measures.
 ## Dashboard
